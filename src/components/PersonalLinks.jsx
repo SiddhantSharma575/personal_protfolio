@@ -58,7 +58,7 @@ const PersonalLinks = () => {
     ]
     return (
         <div name="links" className="bg-gradient-to-b from-gray-800 to-black">
-            <div className="ml-48">
+            <div className="lg:ml-48">
                 <p className="text-4xl font-bold border-b-4 p-2 inline text-white">
                     Personal Links
                 </p>
