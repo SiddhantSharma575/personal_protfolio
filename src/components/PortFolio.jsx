@@ -9,6 +9,7 @@ import medicines from "../assets/medicine.png"
 import bid from "../assets/bid.png"
 import crypt from "../assets/crypt.png"
 import cros from "../assets/cros.png"
+import foodOrder from "../assets/FoodOrder.jpg"
 
 
 const PortFolio = () => {
@@ -30,13 +31,20 @@ const PortFolio = () => {
         },
         {
             id: 3,
+            src: foodOrder,
+            title : "Online Food Ordering Mobile App",
+            code : "https://github.com/SiddhantSharma575/food_app_native",
+            demo : "https://github.com/SiddhantSharma575/food_app_native"
+        },
+        {
+            id: 4,
             src: crypt,
             title: "Crypto Currency Tracker App",
             code: "https://github.com/SiddhantSharma575/crypto-tracker-app",
             demo: "https://cryptoadda.netlify.app/"
         },
         {
-            id: 4,
+            id: 5,
             src: cros,
             title: "Cross-Share App",
             code: "https://github.com/SiddhantSharma575/cross_share",
@@ -44,7 +52,7 @@ const PortFolio = () => {
 
         },
         {
-            id: 5,
+            id: 6,
             src: reactWeather,
             title: "Weather App",
             code: "https://github.com/SiddhantSharma575/weather_type",

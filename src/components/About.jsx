@@ -8,11 +8,12 @@ const About = () => {
                     <p className="text-4xl font-bold inline border-b-4 border-gray-500">About</p>
                 </div>
                 <p className="text-xl mt-20">
-                    My areas of interests are Coding and Full Stack Web Developement Looking for an opportunity to start my career in the field Software Engineering and I have a strong knowledge of Java, Javascript and NodeJs as well. Also I know basics of MySQL , MongoDB. Currently I am working on projects of Web development with MERN stack & learning advance concepts of it.
+                Greetings! I'm a dedicated Full-Stack Web & Mobile Developer with a strong passion for creating cutting-edge applications. 
+                I proudly completed a 6-month React Native internship, where I collaborated with a talented team to develop intuitive mobile apps. 
+                After the internship, I promoted to a full-time role, from past 3 months i am working as a full time react-native developer.
                 </p>
                 <br />
                 <p className="text-xl">
-
                 </p>
             </div>
         </div>
